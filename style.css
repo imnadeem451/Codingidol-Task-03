@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body{
+    background-color:rgb(130,106,251);
+}
+.container1{
+    background-color: white;
+    padding: 25px 25px 15px 25px;
+    margin: 5% 40% 5% 40%;
+    width: 300px;
+    height: 550px; 
+    box-sizing: border-box;
+    border-radius: 8px;
+    box-shadow: 0 0 15px green;
+}
+#registration{
+    font-weight: 500;
+    font-size: 18px;
+    padding: 10px; 
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color:rgb(130,106,251) ;
+    position:relative;
+}
+.form{
+    margin: 10px;
+}
+#first-name{
+    margin-top: 10px;
+    width: 100%;
+}
+#first-name label{
+    color: black;
+}
+#first-name input{
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+#last-name{
+    margin-top: 8px;
+    width: 100%;
+}
+#last-name label{
+    color: black;
+}
+#last-name input{
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+#email{
+    margin-top: 8px;
+    width: 100%;
+}
+#email label{
+    color: black;
+}
+#email input{
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+#roll-number{
+    margin-top: 8px;
+    width: 100%;
+}
+#roll-number label{
+    color: black;
+}
+#roll-number input{
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+#branch-box{
+    margin-top: 8px;
+}
+#branch-option{
+    margin-top: 5px;
+}
+#IT{
+    margin-left: 10px;
+}
+#interest{
+    margin-top: 10px;
+}
+#interest-option{
+    margin-top: 5px;
+}
+#message{
+    margin-top: 8px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+#message label{
+    color: black;
+}
+#message input{
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+a{
+    background-color: rgb(130,106,251);
+    color: white;
+    margin-left: 100px;
+    padding: 1px 5px;
+    border: 2px solid black;
+    text-decoration: none;
+    border-radius: 4px;
+    
+} 
