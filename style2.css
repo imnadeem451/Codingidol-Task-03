@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: O;
+    font-family: sans-serif;
+}
+img{
+    margin: 10% 40% 0% 40%;
+    width: 250px;
+    height: 250px;
+}
+p{
+    font-size: 25px;
+    margin-left: 35%;
+    margin-bottom: 40%;
+    font-weight: bolder;
+}
